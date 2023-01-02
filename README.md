@@ -2,7 +2,7 @@
 
 ## Link
 
-- Live Site URL: [https://harshita1225.github.io/dog-finder-react/](https://harshita1225.github.io/dog-finder-react/)
+- Live Site URL: [https://harshita1225.github.io/dog-finder-react-main/](https://harshita1225.github.io/dog-finder-react-main/)
 
 ## Task
 
